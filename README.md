@@ -23,9 +23,9 @@
 
 *Technologies I work with and continuously improve upon:*
 
-- **Languages:** C#, C++, JavaScript
-- **Web Technologies:** HTML5, CSS3
-- **Frameworks & Libraries:** .NET (ASP.NET Core, Entity Framework), Bootstrap
+- **Programming Languages:** C#, C++, JavaScript
+- **Frontend:** HTML5, CSS3, Bootstrap5, JavaScript
+- **Backend:** C#, ASP.NET Core MVC, Entity Framework
 - **Databases:** PostgreSQL, PL/pgSQL
 - **Tools & Platforms:** Git, GitHub, Docker, Visual Studio,  
 

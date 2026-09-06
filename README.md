@@ -27,7 +27,7 @@
 - **Frontend:** HTML5, CSS3, Bootstrap5, JavaScript
 - **Backend:** C#, ASP.NET Core MVC, Entity Framework Core
 - **Databases:** PostgreSQL, PL/pgSQL
-- **Tools & Platforms:** Git, GitHub, Docker, Visual Studio,  
+- **Tools & Platforms:** Git, GitHub, Visual Studio
 
 ---
 
